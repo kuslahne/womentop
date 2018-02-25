@@ -1,0 +1,56 @@
+.header{
+  margin-top: 30px;
+}
+.header-product{
+   border: none;
+}
+.btn-group{
+   height: 50px;
+}
+.btn-group .btn{
+   color: #fff;
+   border: none;
+   border-radius: 0px;
+}
+.header{
+   background: #def1f4;
+}
+.header h2{
+   padding: 0 0 5px 30px;
+   font-weight: 900;
+}
+button{
+   margin-left: 10px !important;
+}
+.bg-none{
+   border:none;
+   background: none;
+   padding: 0 10px;
+}
+.dropdown{
+   margin-top: 20px;
+   float: right;
+   margin-right: 20px;
+   margin-bottom: 10px;
+}
+.btn-sale{
+   background: red;
+}
+.btn-exclusive{
+   background: green;
+}
+.price-tag, .price-tag > div, .item {
+   background: #fff;
+}
+.price-tag > div{
+   border:none;
+   height: 70px;
+}  
+.product-name{
+   font-size: 16px;
+}
+.product-price{
+   font-size: 24px;
+   font-weight: bolder;
+}
+
